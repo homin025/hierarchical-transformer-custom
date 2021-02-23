@@ -11,7 +11,7 @@
 
 ## Background
 
-This repository is referenced from the paper ['Hierarchical Transformers for Multi-Document Summarization'](https://arxiv.org/pdf/1905.13164.pdf).
+This repository is referenced from the paper [*Hierarchical Transformers for Multi-Document Summarization*](https://arxiv.org/pdf/1905.13164.pdf).
 
 It is almost identical to the referenced code, but I rewrote this for reviewing and understanding code. It also uses korean vocabulary to apply Korean news for multi-document summarization
 
