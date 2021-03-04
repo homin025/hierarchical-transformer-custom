@@ -1,4 +1,4 @@
 pytorch
 pyrouge
-sentencepiece
+sentencepiece==0.1.6
 tensorboardX
